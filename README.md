@@ -9,8 +9,8 @@ Steps to Run
 ----------------------------------
 1. Download the code
 2. modify /src/main/resources/test.properties for valid email and password.
-3. cd trifacta
-3. mvn test
+3. ```cd trifacta```
+3. ```mvn test```
 
 Note: If you get driver not executable error please check the permission of the driver files.
 Driver files are in the main directory named as chromerdriver_<os>. 
