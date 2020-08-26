@@ -13,7 +13,7 @@ Steps to Run
 3. ```mvn test```
 
 Note: If you get driver not executable error please check the permission of the driver files.
-Driver files are in the main directory named as chromerdriver_<os>. 
+Driver files are in the main directory named as chromerdriver_*OS*. 
 you may need to run below equivalent to make it executable.
 ```$xslt
 chmod 777 chromedriver_mac
